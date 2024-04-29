@@ -1,5 +1,5 @@
 ---
-title: Documentation
+title: projects
 next: first-page
 ---
 
