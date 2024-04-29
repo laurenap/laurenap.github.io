@@ -3,4 +3,4 @@ title: About
 type: about
 ---
 
-This is the about page.
+hey, nice to meet you! I'm lauren pearson.
