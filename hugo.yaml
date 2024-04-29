@@ -38,7 +38,7 @@ menu:
         icon: github
     - name: Twitter
       weight: 6
-      url: "https://twitter.com/"
+      url: "https://twitter.com/laurenap_"      
       params:
         icon: x-twitter
 
