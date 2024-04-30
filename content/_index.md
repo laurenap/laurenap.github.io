@@ -2,16 +2,16 @@
 title: lauren pearson
 toc: false
 ---
-welcome to my website! click below to learn more about me & my projects - lauren <3![50F4F00E-1E86-4738-9569-47A5841525D7](https://github.com/laurenap/laurenap.github.io/assets/104783934/66e00a09-a483-4626-873d-024f7a8638e4)
+welcome to my website! click below to learn more about me & my projects - lauren <3
 
-## Explore
+## explore
 
 {{< cards >}}
   {{< card link="docs" title="Docs" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
 
-![50F4F00E-1E86-4738-9569-47A5841525D7](https://github.com/laurenap/laurenap.github.io/assets/104783934/66e00a09-a483-4626-873d-024f7a8638e4)
+![50F4F00E-1E86-4738-9569-47A5841525D7_1_201_a](https://github.com/laurenap/laurenap.github.io/assets/104783934/efe3481d-cf60-4897-a306-f36e3f19f92f)
 
-## Documentation
+ ## documentation
 For more information, visit [Hextra](https://imfing.github.io/hextra).
