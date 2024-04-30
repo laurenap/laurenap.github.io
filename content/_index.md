@@ -2,10 +2,12 @@
 title: hi, i'm lauren pearson
 toc: false
 ---
-welcome to my personal website! 
-thanks for stopping by :) click below to learn more about me & my projects 
+welcome to my website! 
 
-as always stay curious + be kind - lauren <3
+click below to learn more about me & my projects 
+
+thanks for stopping by :) always stay curious + be kind 
+- lauren <3
 
 ## Explore
 
