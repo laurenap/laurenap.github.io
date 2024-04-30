@@ -47,8 +47,7 @@ params:
     displayTitle: true
     displayLogo: true
     logo: 
-      path: images/logo.svg
-      dark: images/logo-dark.svg 
+      path: /Users/laurenpearson/Library/Mobile Documents/com~apple~CloudDocs/6c8451edcbb89f42d9a3c633b34b820a-sticker.png      images/logo.svg
       link: /
       width: 40
       height: 20
