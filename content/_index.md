@@ -5,10 +5,7 @@ toc: false
 
 This is the landing page!
 
-![](/images/headshot.jpeg)
-
-
-content/docs/headshot.jpeg
+![headshot](https://github.com/laurenap/laurenap.github.io/assets/104783934/13448804-6cba-4935-a90e-7c0a1058fe8d)
 
 
 
