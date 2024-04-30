@@ -1,5 +1,5 @@
 ---
-title: hi, i'm lauren pearson
+title: Hi, I'm lauren pearson
 toc: false
 ---
 welcome to my website! 
