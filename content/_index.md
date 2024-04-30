@@ -1,11 +1,10 @@
 ---
-title: Hi, I'm lauren pearson
+title: lauren pearson
 toc: false
 ---
 welcome to my website! 
 
-click below to learn more about me & my projects 
-before you go, don't forget to curious + be kind - lauren <3
+click below to learn more about me & my projects - lauren <3
 
 ## Explore
 
