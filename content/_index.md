@@ -5,9 +5,7 @@ toc: false
 welcome to my website! 
 
 click below to learn more about me & my projects 
-
-thanks for stopping by :) always stay curious + be kind 
-- lauren <3
+before you go, don't forget to curious + be kind - lauren <3
 
 ## Explore
 
