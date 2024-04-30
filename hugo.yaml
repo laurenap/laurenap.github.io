@@ -45,7 +45,7 @@ menu:
 params:
   navbar:
     displayTitle: true
-    displayLogo: true
+    displayLogo: flase
     logo: 
       path: content/docs/6c8451edcbb89f42d9a3c633b34b820a-sticker.png
       link: /
