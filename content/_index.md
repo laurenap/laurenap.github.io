@@ -4,6 +4,10 @@ toc: false
 ---
 
 This is the landing page!
+
+![](/images/headshot.jpeg)
+
+
 content/docs/headshot.jpeg
 
 
