@@ -5,8 +5,7 @@ toc: false
 
 This is the landing page!
 
-![headshot](https://github.com/laurenap/laurenap.github.io/assets/104783934/13448804-6cba-4935-a90e-7c0a1058fe8d)
-
+![50F4F00E-1E86-4738-9569-47A5841525D7](https://github.com/laurenap/laurenap.github.io/assets/104783934/66e00a09-a483-4626-873d-024f7a8638e4)
 
 
 ## Explore
