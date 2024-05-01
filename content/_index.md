@@ -2,7 +2,8 @@
 title: lauren pearson
 toc: false
 ---
-welcome to my website! click below to learn more about me & my projects - lauren <3
+ 👋 welcome to my website! 
+  click below to learn more about me & my projects - lauren ✌🏻
 
 ## explore
 
