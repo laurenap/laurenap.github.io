@@ -7,7 +7,7 @@ welcome to my website! click below to learn more about me & my projects - lauren
 ## explore
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
+  {{< card link="docs" title="projects + blog" icon="book-open" >}}
   {{< card link="about" title="about me" icon="user" >}}
     {{< /cards >}}
 
