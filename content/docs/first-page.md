@@ -8,7 +8,7 @@ next: docs/folder/
 this page serves as an hq for all of my writing / blog-related posts -> typically you can find them linked directly on this site, or content will be hyperlinked to an external site where the content is then hosted from there on
 
  ## technical posts.
--
+ 
 [@ as-dx | Revitalizing Autism Spectrum Disorder Diagnostics w/EEG Neurofeedback](https://laurenap.medium.com/as-dx-revitalizing-autism-spectrum-disorder-diagnostics-w-eeg-neurofeedback-97fd928887fb) #braincomputerinterfaces #neurotech #BCIs
 
 [Observing a Real Brain Tumor Resection while in High School](https://laurenap.medium.com/observing-a-real-brain-tumour-resection-while-in-highschool-db39629e11e1) #neuroonc #neurosci #neurosurgery
@@ -20,7 +20,7 @@ this page serves as an hq for all of my writing / blog-related posts -> typicall
 [The Not Straightforward Science of Sleep ft. Autism Edition](https://medium.com/sticks-stones-and-adhd/the-not-so-straight-forward-science-of-sleep-autism-edition-1fcd60b3f7a2) 
 
 ---
-## thoughts about life.
+## notes abt life.
 [a short entry on seeking gratitude](https://open.substack.com/pub/laurenap/p/a-short-entry-on-seeking-gratitude?r=19pare&utm_campaign=post&utm_medium=web)
 
 [what i learned from walking on the edge of the CN tower](https://open.substack.com/pub/laurenap/p/what-i-learned-from-walking-on-the?r=19pare&utm_campaign=post&utm_medium=web)
