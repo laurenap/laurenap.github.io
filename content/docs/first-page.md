@@ -7,7 +7,7 @@ next: docs/folder/
 
 this page serves as an hq for all of my writing / blog-related posts -> typically you can find them linked directly on this site, or content will be hyperlinked to an external site where the content is then hosted from there on
 
- ### technical posts.
+ ### technical posts (tech/stem)
  
 [@ as-dx | Revitalizing Autism Spectrum Disorder Diagnostics w/EEG Neurofeedback](https://laurenap.medium.com/as-dx-revitalizing-autism-spectrum-disorder-diagnostics-w-eeg-neurofeedback-97fd928887fb) 
 
