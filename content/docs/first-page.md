@@ -15,8 +15,6 @@ this page serves as an hq for all of my writing / blog-related posts -> typicall
 - ["To see or to not See" - Understanding Neural Evidence of Visual Suppression](https://medium.com/@laurenap/to-see-or-not-to-see-understanding-neural-evidence-of-visual-suppression-282efe8ab650)
 - [The Not Straightforward Science of Sleep ft. Autism Edition](https://medium.com/sticks-stones-and-adhd/the-not-so-straight-forward-science-of-sleep-autism-edition-1fcd60b3f7a2) 
 
-/
-
 ### personal growth + life blogs.
 - [a short entry on seeking gratitude](https://open.substack.com/pub/laurenap/p/a-short-entry-on-seeking-gratitude?r=19pare&utm_campaign=post&utm_medium=web)
 - [what I learned from walking on the edge of the CN tower](https://open.substack.com/pub/laurenap/p/what-i-learned-from-walking-on-the?r=19pare&utm_campaign=post&utm_medium=web)
