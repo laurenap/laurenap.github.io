@@ -8,15 +8,17 @@ next: docs/folder/
 this page serves as an hq for all of my writing / blog related posts -> typically you can find them linked directly on this site or content will be hyperlinked to an external site where the content is then hosted from there on
 
  ## technical
- [@ as-dx | revitalizing autism spectrum disorder diagnostics w/EEG neurofeedback](https://laurenap.medium.com/as-dx-revitalizing-autism-spectrum-disorder-diagnostics-w-eeg-neurofeedback-97fd928887fb)
+I actively write content on emerging technologies + provide written summaries that accompany the hardware projects that I create!
+-
+[@ as-dx | Revitalizing Autism Spectrum Disorder Diagnostics w/EEG Neurofeedback](https://laurenap.medium.com/as-dx-revitalizing-autism-spectrum-disorder-diagnostics-w-eeg-neurofeedback-97fd928887fb)
 
-[observing a real brain tumor resection while in high school](https://laurenap.medium.com/observing-a-real-brain-tumour-resection-while-in-highschool-db39629e11e1)
+[Observing a Real Brain Tumor Resection while in High School](https://laurenap.medium.com/observing-a-real-brain-tumour-resection-while-in-highschool-db39629e11e1)
 
-[how to win a staring contest everytime using EEG tech w/ the muse S](https://laurenap.medium.com/how-to-win-a-staring-contest-every-time-using-eeg-tech-w-muse-s-c75b3cbcd8d3)
+[How to Win a Staring Contest Everytime using EEG tech w/ the Muse S](https://laurenap.medium.com/how-to-win-a-staring-contest-every-time-using-eeg-tech-w-muse-s-c75b3cbcd8d3)
 
-["to see or to not see" - understanding neural evidence of visual suppression](https://medium.com/@laurenap/to-see-or-not-to-see-understanding-neural-evidence-of-visual-suppression-282efe8ab650)
+["To see or to not See" - Understanding Neural Evidence of Visual Suppression](https://medium.com/@laurenap/to-see-or-not-to-see-understanding-neural-evidence-of-visual-suppression-282efe8ab650)
 
-[the not so straightforward science of sleep. autism edition](https://medium.com/sticks-stones-and-adhd/the-not-so-straight-forward-science-of-sleep-autism-edition-1fcd60b3f7a2) 
+[The Not Straightforward Science of Sleep ft. Autism Edition](https://medium.com/sticks-stones-and-adhd/the-not-so-straight-forward-science-of-sleep-autism-edition-1fcd60b3f7a2) 
 
 ## life
 [a short entry on seeking gratitude](https://open.substack.com/pub/laurenap/p/a-short-entry-on-seeking-gratitude?r=19pare&utm_campaign=post&utm_medium=web)
