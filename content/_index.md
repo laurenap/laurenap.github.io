@@ -12,7 +12,7 @@ toc: false
    {{< card link="docs" title="projects + blog" icon="book-open" >}}
    {{< /cards >}}
 
-![50F4F00E-1E86-4738-9569-47A5841525D7_1_201_a](https://github.com/laurenap/laurenap.github.io/assets/104783934/efe3481d-cf60-4897-a306-f36e3f19f92f)
+![327005327-efe3481d-cf60-4897-a306-f36e3f19f92f](https://github.com/laurenap/laurenap.github.io/assets/104783934/c5555264-b9a0-411c-b33d-349f961157ae)
 
  ## documentation
 For more information, visit [Hextra](https://imfing.github.io/hextra).
