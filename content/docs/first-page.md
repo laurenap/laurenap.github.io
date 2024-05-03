@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: blog
 type: docs
 prev: /
 next: docs/folder/
