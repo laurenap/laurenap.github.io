@@ -9,10 +9,12 @@ toc: false
 
 {{< cards >}}
   {{< card link="about" title="about me" icon="user" >}}
-   {{< card link="docs" title="projects + blog" icon="book-open" >}}
+    {{< card link="first-page.md" title="blog" icon="computer-open" >}}
+    {{< card link="docs" title="projects + blog" icon="book-open" >}}
    {{< /cards >}}
-
-![327005327-efe3481d-cf60-4897-a306-f36e3f19f92f](https://github.com/laurenap/laurenap.github.io/assets/104783934/c5555264-b9a0-411c-b33d-349f961157ae)
+   
+![327627088-c5555264-b9a0-411c-b33d-349f961157ae](https://github.com/laurenap/laurenap.github.io/assets/104783934/39f832e4-0926-424e-a047-7077f40a78c3)
 
  ## documentation
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+For more information, visit [Hextra](https://imfing.github.io/hextra). the main website template was based from the Hextra open documentation template, outside of the base CSS frame of the site, you can find my code edits + changes on my github ;)
+
