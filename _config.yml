@@ -9,12 +9,12 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "lauren pearson / 
+title                    : "lauren pearson 
 title_separator          : "-"
 name                     : &name "lauren pearson"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" /home
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -29,7 +29,7 @@ author:
   location         : "toronto"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "l.pearson@mail.utoronto.ca" 
 
   # Academic websites
   academia         : # URL
@@ -68,7 +68,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "https://x.com/laurenap_"
+  twitter          : laurenap
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
