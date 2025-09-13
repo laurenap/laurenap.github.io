@@ -1,0 +1,13 @@
+title: "Lauren's Blog"
+description: "A fresh start with the minimal Jekyll theme"
+baseurl: "" # For user/organization site, keep this empty
+url: "https://laurenap.github.io"
+
+theme: jekyll-theme-minimal
+
+future: true
+show_drafts: true
+
+author:
+  name: Lauren
+  email: your-email@example.com
