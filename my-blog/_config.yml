@@ -1,0 +1,8 @@
+title: "lp blog"
+description: "Notes, projects, and adventures"
+theme: minima
+
+# Plugins supported by GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
